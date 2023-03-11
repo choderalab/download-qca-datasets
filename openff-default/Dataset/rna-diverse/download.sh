@@ -20,5 +20,5 @@ echo "changing directory to ${LS_SUBCWD}"
 cd $LS_SUBCWD
 
 conda activate espaloma
-/bin/time --verbose python downloader-openff-default.py
+/bin/time --verbose python downloader-openff-default-revised.py
 echo done

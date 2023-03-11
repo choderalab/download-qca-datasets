@@ -1,6 +1,5 @@
 # This section specifies which data subsets to include.  Comment out any ones you want to omit.
 subsets:
-  # The following subsets make up SPICE version 1.
   - 'RNA Single Point Dataset v1.0'
 
 # This section specifies which data values to include.  The following are all of the most common choices.  Comment
