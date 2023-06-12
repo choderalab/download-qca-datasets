@@ -1,0 +1,7 @@
+**hdf5**
+**ipynb_checkpoints**
+**nohup**
+*.out*
+**.log**
+**.stdout**
+**.stderr**

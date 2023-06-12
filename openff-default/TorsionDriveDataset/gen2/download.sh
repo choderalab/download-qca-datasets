@@ -21,5 +21,7 @@ echo "changing directory to ${LS_SUBCWD}"
 cd $LS_SUBCWD
 
 conda activate espaloma
-/bin/time --verbose python downloader-openff-default-torsion-dataset.py
+/bin/time --verbose python ../downloader-openff-default-torsion-dataset.py
 echo done
+
+mv OPENFF-DEFAULT.hdf5 GEN2-TORSIONDRIVE-OPENFF-DEFAULT.hdf5
