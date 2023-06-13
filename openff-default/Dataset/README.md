@@ -1,13 +1,13 @@
 # Download BasicDataset from QCArchive
-Download QM datasets from QCArchive (BasicDataset) and export data as HDF5 file.
+Download QM datasets from QCArchive (Dataset) and export data as HDF5 file.
 
 ## Description
-- `downloader-openff-default.py` - Python script to download the QM dataset from QCArchive.
+- `downloader-openff-default.py` - Python script to download the QM dataset from QCArchive (Dataset).
 - [directory]/`config.yaml` - Configuration file used to define what datasets to download from QCArchive.
 - [directory]/`download.sh` - LSF job script to execute `downloader-openff-default.py`.
 - [directory]/`check_status.py` - Python script to quickly check if the computation of each entry record from the QM dataset has successfully completed. This will return the following information.
     - Index number (zero indexing)
-    - Status (Complete|Incomplete|INVALID)
+    - Status (Complete|Incomplete|Invalid)
     - Record name with conformation ID
     - Record name without conformation ID  
 
