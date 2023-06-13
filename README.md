@@ -23,6 +23,8 @@ QM datasets stored in QCArchive using Basic, Optimization, or TorsionDrive workf
             - [RNA Single Point Dataset v1.0](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2022-07-07-RNA-basepair-triplebase-single-points)
         - `rna-trinculeotide/` - Scripts used to download the following dataset
             - [RNA Trinucleotide Single Point Dataset v1.0](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2022-10-21-RNA-trinucleotide-single-points)
+        - `rna-nucleoside/` - Scripts used to download the following dataset
+            - [RNA Single Point Dataset v1.0](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2023-03-09-RNA-nucleoside-single-points)
     - `OptimizationDataset/` - Directory for optimization datasets from QCArchive
         - `gen2/`
             - [OpenFF Gen 2 Opt Set 1 Roche](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-20-OpenFF-Gen-2-Optimization-Set-1-Roche)
