@@ -1,4 +1,4 @@
-# Download QCA datasets
+# Download QM dataset stored in QCArchive
 This repository contains scripts to download QM datasets from QCArchive to refit [espaloma](https://github.com/choderalab/espaloma).
 
 ## Description
