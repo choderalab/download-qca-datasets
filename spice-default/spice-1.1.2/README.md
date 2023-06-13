@@ -1,1 +1,0 @@
-https://github.com/openmm/spice-dataset/releases/tag/1.1.2
