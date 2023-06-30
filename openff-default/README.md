@@ -1,6 +1,6 @@
 ## Description
 
-- `Dataset/` - Directory to download QCArchive `Dataset` which is a collection of single point quantum mechanical energy calculations performed on a set of molecules.Directory to save the `Dataset` collection data from QCArchive which stores single point energy calculations performed on set of molecules.
+- `Dataset/` - Directory to download QCArchive `Dataset` which is a collection of single point quantum mechanical energy calculations performed on a set of molecules.
 - `OptimziationDataset/` - Directory to download QCArchive `OptimizationDataset` which is a collection of geometry optimizations performed on a set of molecules.
 - `TorsionDriveDataset/` - Directory to download QCArchive `TorsionDriveDataset` which is a collection of torsion scans performed on a set of rotatable torsions for a set of molecules.
 

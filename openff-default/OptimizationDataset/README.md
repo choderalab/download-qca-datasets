@@ -1,11 +1,8 @@
-# Download OptimizationDataset from QCArchive
-Download QM datasets from QCArchive (OptimizationDataset) and export data as HDF5 file.
-
 ## Description
 - [directory]/`downloader-openff-default-opt-dataset.py` - Python script to download the QM dataset from QCArchive (OptimizationDataset).
 - [directory]/`config.yaml` - Configuration file used to define what datasets to download from QCArchive.
 - [directory]/`download.sh` - LSF job script to execute `downloader-openff-default.py`.
-- [directory]/`check_status.py` - Python script to quickly check if the computation of each entry record from the QM dataset has successfully completed. This will return the following information.
+- [directory]/`check_status.py` - Python script to quickly check if the computation of each entry record from the QM dataset has successfully completed. This returns the following information.
     - Index number (zero indexing)
     - Status (Complete|Incomplete|INVALID)
     - Record name with the intial conformation ID
@@ -22,5 +19,5 @@ Since there were trouble connecting to the server at the time, subset of dataset
     >grep_logging_complete.sh  
     >bsub < download.sh  
 
-    Use `merge_hdf.ipynb` to merge HDF5 into a single file.
+    `merge_hdf.ipynb` was used to merge the HDF5 files into a single file.
     
