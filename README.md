@@ -37,15 +37,15 @@ QM datasets from QCArchive (`Dataset`, `OptimizationDataset`, `TorsionDriveDatas
                 - Dataset was downloaded with `default-dlc` specification. See [here](https://github.com/openforcefield/qca-dataset-submission/issues/322) for more detail.
     - `TorsionDriveDataset/` - Directory for torsion drive datasets in QCArchive
         - `gen2/` - Script used to download the following datasets
-            - [OpenFF Gen 2 Torsion Set 1 Roche](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-20-OpenFF-Gen-2-Optimization-Set-1-Roche)
+            - [OpenFF Gen 2 Torsion Set 1 Roche](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-12-OpenFF-Gen-2-Torsion-Set-1-Roche)
             - [OpenFF Gen 2 Torsion Set 1 Roche 2](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-23-OpenFF-Gen-2-Torsion-Set-1-Roche-2)
-            - [OpenFF Gen 2 Torsion Set 2 Coverage](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-20-OpenFF-Gen-2-Optimization-Set-2-Coverage)
+            - [OpenFF Gen 2 Torsion Set 2 Coverage](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-12-OpenFF-Gen-2-Torsion-Set-2-Coverage)
             - [OpenFF Gen 2 Torsion Set 2 Coverage 2](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-23-OpenFF-Gen-2-Torsion-Set-2-Coverage-2)
-            - [OpenFF Gen 2 Torsion Set 3 Pfizer Discrepancy](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-20-OpenFF-Gen-2-Optimization-Set-3-Pfizer-Discrepancy)
+            - [OpenFF Gen 2 Torsion Set 3 Pfizer Discrepancy](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-12-OpenFF-Gen-2-Torsion-Set-3-Pfizer-Discrepancy)
             - [OpenFF Gen 2 Torsion Set 3 Pfizer Discrepancy 2](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-23-OpenFF-Gen-2-Torsion-Set-3-Pfizer-Discrepancy-2)
-            - [OpenFF Gen 2 Torsion Set 4 eMolecules Discrepancy](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-20-OpenFF-Gen-2-Optimization-Set-4-eMolecules-Discrepancy)
+            - [OpenFF Gen 2 Torsion Set 4 eMolecules Discrepancy](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-12-OpenFF-Gen-2-Torsion-Set-4-eMolecules-Discrepancy)
             - [OpenFF Gen 2 Torsion Set 4 eMolecules Discrepancy 2](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-23-OpenFF-Gen-2-Torsion-Set-4-eMolecules-Discrepancy-2)
-            - [OpenFF Gen 2 Torsion Set 5 Bayer](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-20-OpenFF-Gen-2-Optimization-Set-5-Bayer)
+            - [OpenFF Gen 2 Torsion Set 5 Bayer](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-12-OpenFF-Gen-2-Torsion-Set-5-Bayer)
             - [OpenFF Gen 2 Torsion Set 5 Bayer 2](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-26-OpenFF-Gen-2-Torsion-Set-5-Bayer-2)
             - [OpenFF Gen 2 Torsion Set 6 Supplemental](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-12-OpenFF-Gen-2-Torsion-Set-6-supplemental)
             - [OpenFF Gen 2 Torsion Set 6 Supplemental 2](https://github.com/openforcefield/qca-dataset-submission/tree/master/submissions/2020-03-26-OpenFF-Gen-2-Torsion-Set-6-supplemental-2)
