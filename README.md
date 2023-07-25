@@ -61,6 +61,19 @@ QM datasets from QCArchive (`Dataset`, `OptimizationDataset`, `TorsionDriveDatas
 ## Environment
 Core dependency: `qcprotal==0.15.8` was used to download the QM datasets stored in QCArchive.
 
-
 ## Note
 All HDF5 files can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.8148817).
+
+## Citation
+If you find this helpful please cite the following:
+
+```
+@misc{takaba2023espaloma030,
+      title={Espaloma-0.3.0: Machine-learned molecular mechanics force field for the simulation of protein-ligand systems and beyond}, 
+      author={Kenichiro Takaba and Iván Pulido and Mike Henry and Hugo MacDermott-Opeskin and John D. Chodera and Yuanqing Wang},
+      year={2023},
+      eprint={2307.07085},
+      archivePrefix={arXiv},
+      primaryClass={physics.chem-ph}
+}
+```
